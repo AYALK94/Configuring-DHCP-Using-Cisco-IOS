@@ -1,15 +1,9 @@
 # Lab Report: Configuring DHCP Using Cisco IOS
 
-![Cover](images/cover.jpg)
 
 
-- **Student Name:** Ayalkibet Abriham
 
-- **Course:** Network Security Administration / Cybersecurity
 
-- **Instructor:** Ruth Alemayehu
-
-- **Date:** September 25, 2026
 
 **1. Objective**
 
@@ -70,12 +64,12 @@ address bindings.
 
 **5. Evidence of Completion (Screenshots)**
 
-<img src="images/image1.png"
+<img src="image1.png"
 style="width:6.5in;height:2.81389in" />**  
 Figure 1 Successful ICMP ping verification between PC1 and PC2 in Cisco
 Packet Tracer**
 
-<img src="images/image2.png"
+<img src="image2.png"
 style="width:5.79196in;height:1.84037in" />**  
   
 Figure 2:** R2 DHCP Client and EIGRP State Console Output.
